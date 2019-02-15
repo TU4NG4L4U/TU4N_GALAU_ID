@@ -1,0 +1,5 @@
+pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/TU4NG4L4U/TU4N_GALAU_ID
+cd TU4N_GALAU_ID
+sh TU4N_GALAU_ID.sh
